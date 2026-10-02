@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://haqyarchemicals.github.io/haqyar-chemicals/sitemap.xml
