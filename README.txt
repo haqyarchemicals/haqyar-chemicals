@@ -19,5 +19,5 @@ Add them only when confirmed by the manufacturer.
 Files from the OLD site that must be DELETED from the GitHub repository
 (uploading a new zip does not remove old files):
   Pages: britex-96-calcined-kaolin.html, hcfblack-hs-2805.html, mono-ethylene-glycol-meg.html, natrosol-250-hhbr.html, optical-brightener-ob-1-uvtx.html, styrene-acrylic-emulsion.html, titanium-dioxide-sr-2377.html, tylose-hs-30000-yp2.html
-  assets/: carbon-black.png, hero.jpg, kaolin.png, logo-clean.png, logo-source.png, meg.jpg, natrosol.png, ob1.png, styrene.jpg, titanium.jpg, tylose.png
+  assets/: logo-transparent.png, carbon-black.png, hero.jpg, kaolin.png, logo-clean.png, logo-source.png, meg.jpg, natrosol.png, ob1.png, styrene.jpg, titanium.jpg, tylose.png
   Keep/replace: google4b7904d99209b4f1.html, robots.txt, sitemap.xml (new versions are in this zip).
